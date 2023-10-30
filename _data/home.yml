@@ -1,6 +1,18 @@
 navbar_entries:
-  - title: about
-    url: about
+  - title: Home
+    url: home
+
+  - title: Writing
+    url: writing
+
+  - title: Talks
+    url: talks
+
+  - title: CV
+    url: cv
+
+  - title: Fun
+    url: fun
 
   - title: blog
     url: blog
@@ -57,18 +69,15 @@ footer_entries:
   - title: abhinav's homepage
     url: https://www.abhinav.co
 
-  - title: twitter
-    url: https://twitter.com/abhinav
-
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/lachlanpotter
 
   - title: feed
     url: feed.xml
 
 misc_entries:
   - title: this is an example vertical list
-    url: false
+    url: true
 
   - title: you can show or hide using a boolean flag in _config.yml
     url: false
@@ -81,7 +90,7 @@ misc_entries:
     url: false
 
   - title: moonwalk on the Internet
-    url: false
+    url: true
     entries:
       - title: on Github
         url: https://github.com/abhinavs/moonwalk
@@ -90,7 +99,7 @@ misc_entries:
         url: https://www.abhinav.co
 
       - title: this list is scalable and can be nested
-        url: false
+        url: true
         entries:
           - title: this is nested inside a nested list
             url: false
