@@ -230,6 +230,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+# below here has been added
+  - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -290,3 +292,7 @@ defaults:
       comments: # true
       share: true
       related: true
+
+remote_theme: benbalter/retlab
+
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
