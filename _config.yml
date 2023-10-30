@@ -2,17 +2,22 @@ title: Lachlan Potter
 author: Lachlan Potter
 url: https://lachlanpotter.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  "I'm a pure mathematics student from Australia. When not doing mathematics I enjoy bouldering and solving cryptic crosswords. 
-  I'm currently a first year graduate student at UT Austin. \n
+  I'm a pure mathematics student from Australia. When not doing mathematics I enjoy bouldering and solving cryptic crosswords. 
+  I'm currently a first year graduate student at UT Austin. 
 
+description2: > # doing this for paragraph breaks
   Before that I did my M2 de Mathématiques Fondamentales at Sorbonne Université with the help of the Fondation Sciences Mathématiques de Paris' PGSM Master scholarship. I wrote my master thesis under the supervision of Alexis Bouthier on the geometric Satake equivalence.
 
+description3: > # doing this for paragraph breaks
   Before that I graduated from the Australian National University with the PhB - Science (Honours). 
-
   I wrote my Honours thesis under the supervision of Associate Professor Uri Onn , in which I studied a paper by Lubotzky and Martin on the congruence subgroup property and polynomial representation growth.  To read my Honours thesis click here.
   I also made a short video describing some of the ideas in my Honours thesis, which should be comprehensible to any undergraduate who knows what a representation is. You can view this here  (apologies for the audio).
 
-  I am interested in number theory, algebraic geometry and its connections with representation theory, though my interests are liable to change as I encounter new mathematics."
+description4: > # doing this for paragraph breaks
+  I am interested in number theory, algebraic geometry and its connections with representation theory, though my interests are liable to change as I encounter new mathematics.
+
+description5: > # doing this for paragraph breaks
+  (last edited: SITE UNDER CONSTRUCTION)
 
 permalink: /:slug
 
@@ -37,10 +42,10 @@ theme_config:
   # following keys are using to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
   show_blog: false # show blog posts added in _posts
-  show_old_projects: true # show old projects as cards, add in _data/home.yml
+  show_old_projects: false # show old projects as cards, add in _data/home.yml
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
-  show_reading_time: true # show number of words and reading time in the blog posts
-  show_tags: true # show tags in a blog posts
+  show_reading_time: false # show number of words and reading time in the blog posts
+  show_tags: false # show tags in a blog posts
   # options for "home" page
   home:
     title_projects: Portfolio

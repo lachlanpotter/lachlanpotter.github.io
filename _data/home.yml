@@ -1,6 +1,6 @@
 navbar_entries:
   - title: Home
-    url: home
+    url: /
 
   - title: Writing
     url: writing
@@ -90,7 +90,7 @@ misc_entries:
     url: false
 
   - title: moonwalk on the Internet
-    url: true
+    url: false
     entries:
       - title: on Github
         url: https://github.com/abhinavs/moonwalk

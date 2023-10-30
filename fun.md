@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About
+title: Talks
 ---
 
 This is an example page!
