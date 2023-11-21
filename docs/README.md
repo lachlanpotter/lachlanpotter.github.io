@@ -4,4 +4,4 @@ I'm a first year mathematics graduate student at UT Austin.
 
 [Talks](Talks.md)
 
-![imageofme](/docs/assets/images/headshot_photo.png)
+![imageofme](./assets/images/headshot_photo.png)
