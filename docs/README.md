@@ -2,6 +2,6 @@
 
 I'm a first year mathematics graduate student at UT Austin.
 
-[Talks](Talks.md)
+You can find my google site [here](https://sites.google.com/view/lachlan-potter/home)
 
 ![imageofme](./assets/images/headshot_photo.png)
