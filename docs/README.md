@@ -1,4 +1,4 @@
-# Lachlan Potter
+# [Home](README.md)
 
 I'm a first year mathematics graduate student at UT Austin.
 
