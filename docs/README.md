@@ -1,7 +1,6 @@
-# What is this Website for?
+# Lachlan Potter
 
-It's a professional website for me that I intend to make searchable on Google.
+I'm a first year mathematics graduate student at UT Austin.
 
-I am following the steps outlined in: https://tomcam.github.io/least-github-pages/ 
+![picture of me](/docs/assets/images/headshot_photo.JPG)
 
-Go to the Home page [here](/Home.md)
