@@ -10,21 +10,31 @@ The following are a selection of (all unpublished) mathematical essays I have wr
 
 My master's thesis on the geometric Satake Equivalence written under the supervision of Alexis Bouthier.
 
+
+
 [Polynomial Representation Growth and the Congruence Subgroup Problem (2021)](https://drive.google.com/file/d/1SwvjpAMPowT6M35Bdggw7ghsfRpECQjv/view) 
 
 84 page Honours (Bachelor) thesis written under the supervision of Associate Professor Uri Onn, in which I studied a 2004 paper by Lubotzky and Martin on the congruence subgroup property and polynomial representation growth.  
+
+
 
 [Finite Type Invariants of Pure Braids (2021)](https://drive.google.com/file/d/14ZR8tilAPUP4BwqxVTrKz5rtEbjXfIzA/view?usp=sharing)
 
 A 10 page paper with lots of diagrams I wrote for a course in 3-manifolds given by Joan Licata at the ANU. We discuss braid groups, pure braids, finite type invariants and combing.
 
+
+
 [Representation Theory of Compact Groups (2020)](https://drive.google.com/file/d/1JU0yQTBZe4Z71Bp6ckp--nzzcoqwQIsi/view?usp=sharing)
 
 A 5 page essay I wrote for a course in Functional Analysis given by Pierre Portal at the ANU. We discuss the representation theory of compact topological groups, comparing it at each stage to the theory for finite groups.
 
+
+
 [Fourier Analysis on Number Fields (2020)](https://drive.google.com/file/d/14gRPHEoFDseHlVWCtXc3-cf8uvhHfTRT/view?usp=sharing)
 
 A 39 page informal summary of the second half of the reading course "Fourier Analysis on Number Fields" I took with Uri Onn at the ANU. 
+
+
 
 [Algebraic Groups (2020)](https://drive.google.com/file/d/1TfPxPnXPS_HHjTKkvvd4JnFp9DAUj63v/view?usp=sharing)
 
