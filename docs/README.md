@@ -4,9 +4,7 @@
 
 ### About  
 
-<img style="float: right;" src="./assets/images/headshot_photo.png" width="200">
-
-Office: PMA 9.124
+<img style="float: right;" src="./assets/images/headshot_photo.png" width="200"> Office: PMA 9.124
 
 I'm currently a first year mathematics PhD at UT Austin.
 
