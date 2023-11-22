@@ -6,7 +6,7 @@
 
 The following are a selection of (all unpublished) mathematical essays I have written for various courses and projects:
 
-Polynomial Representation Growth and the Congruence Subgroup Problem (2021)
+[Polynomial Representation Growth and the Congruence Subgroup Problem (2021)](./assets/writing/Representation Growth and the Congruence Subgroup Problem.pdf)
 84 page Honours (Bachelor) thesis written under the supervision of Associate Professor Uri Onn , in which I studied a 2004 paper by Lubotzky and Martin on the congruence subgroup property and polynomial representation growth.  
 
 Finite Type Invariants of Pure Braids (2021)
