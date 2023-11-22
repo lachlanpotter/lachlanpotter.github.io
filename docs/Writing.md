@@ -6,7 +6,7 @@
 
 The following are a selection of (all unpublished) mathematical essays I have written for various courses and projects:
 
-[Geometric Satake Equivalence](https://drive.google.com/file/d/1EiVx8f-Xme7qHfz3vI51TxaLAUoiDtOc/view?usp=sharing)
+[Geometric Satake Equivalence (2023)](https://drive.google.com/file/d/1EiVx8f-Xme7qHfz3vI51TxaLAUoiDtOc/view?usp=sharing)
 
 My master's thesis on the geometric Satake Equivalence written under the supervision of Alexis Bouthier.
 
