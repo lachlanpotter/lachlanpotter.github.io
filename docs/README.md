@@ -18,7 +18,7 @@ I also made a short video describing some of the ideas in my Honours thesis, whi
 
 I am interested in number theory, algebraic geometry and its connections with representation theory, though my interests are liable to change as I encounter new mathematics.
 
-<img src="./assets/images/headshot_photo.png" width="200">
+<img style="float: right;" src="./assets/images/headshot_photo.png" width="200">
 
 (Last edited: October 2023)
 
