@@ -6,12 +6,7 @@
 
 The following are a selection of (all unpublished) mathematical essays I have written for various courses and projects:
 
-[link](https://drive.google.com/file/d/1SwvjpAMPowT6M35Bdggw7ghsfRpECQjv/view)
-
-<a href="file:///C:\assets\writing\Representation_Growth_and_the_Congruence_Subgroup Problem.pdf">Link 1</a>
-
-[Polynomial Representation Growth and the Congruence Subgroup Problem (2021)](./assets/writing/Representation_Growth_and_the_Congruence_Subgroup Problem.pdf)
-84 page Honours (Bachelor) thesis written under the supervision of Associate Professor Uri Onn , in which I studied a 2004 paper by Lubotzky and Martin on the congruence subgroup property and polynomial representation growth.  
+[Polynomial Representation Growth and the Congruence Subgroup Problem (2021)](https://drive.google.com/file/d/1SwvjpAMPowT6M35Bdggw7ghsfRpECQjv/view) 84 page Honours (Bachelor) thesis written under the supervision of Associate Professor Uri Onn , in which I studied a 2004 paper by Lubotzky and Martin on the congruence subgroup property and polynomial representation growth.  
 
 Finite Type Invariants of Pure Braids (2021)
 A 10 page paper with lots of diagrams I wrote for a course in 3-manifolds given by Joan Licata at the ANU. We discuss braid groups, pure braids, finite type invariants and combing.
