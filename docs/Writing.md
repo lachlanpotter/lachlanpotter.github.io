@@ -1,4 +1,8 @@
-# [Home](README.md)  [Writing](Writing.md)  [Talks](Talks.md)  [CV](CV.md)  [Fun](Fun.md)
+# Lachlan Potter
+
+## [About](README.md)  [Writing](Writing.md)  [Talks](Talks.md)  [CV](CV.md)  [Fun](Fun.md) 
+
+### Writing
 
 The following are a selection of (all unpublished) mathematical essays I have written for various courses and projects:
 

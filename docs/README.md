@@ -1,4 +1,8 @@
-# [Home](README.md)  [Writing](Writing.md)  [Talks](Talks.md)  [CV](CV.md)  [Fun](Fun.md) 
+# Lachlan Potter
+
+## [About](README.md)  [Writing](Writing.md)  [Talks](Talks.md)  [CV](CV.md)  [Fun](Fun.md) 
+
+### About
 
 I'm a pure mathematics student from Australia. When not doing mathematics I enjoy bouldering and solving cryptic crosswords. 
 

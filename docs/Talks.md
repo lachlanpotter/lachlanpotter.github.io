@@ -1,4 +1,8 @@
-# [Home](README.md)  [Writing](Writing.md)  [Talks](Talks.md)  [CV](CV.md)  [Fun](Fun.md)
+# Lachlan Potter
+
+## [About](README.md)  [Writing](Writing.md)  [Talks](Talks.md)  [CV](CV.md)  [Fun](Fun.md) 
+
+### Talks
 
 The following are a selection of recorded mathematical talks I have given:
 
