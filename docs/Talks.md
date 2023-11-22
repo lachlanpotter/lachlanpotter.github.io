@@ -6,7 +6,7 @@
 
 The following are a selection of recorded mathematical talks I have given:
 
-[The Representations and Subgroups of SL_d(Z) (2021)](https://drive.google.com/file/d/1DKZTXKVIyogIHoKCsKuoYHGfy0is8fc6/view?usp=sharing)
+### [The Representations and Subgroups of SL_d(Z) (2021)](https://drive.google.com/file/d/1DKZTXKVIyogIHoKCsKuoYHGfy0is8fc6/view?usp=sharing)
 
 A 12 minute video describing the ideas in my Honours thesis. It should be comprehensible to any undergraduate student who knows what a representation is.
 
