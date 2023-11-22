@@ -6,6 +6,8 @@
 
 <img style="float: right;" src="./assets/images/headshot_photo.png" width="200"> Office: PMA 9.124
 
+Email: lachlan dot potter dot tl at my dot utexas dot edu
+
 I'm currently a first year mathematics PhD at UT Austin.
 
 Before that I did my [M2 de Mathématiques Fondamentales](https://master-math-fonda.imj-prg.fr/index.php) at Sorbonne Université with the help of the Fondation Sciences Mathématiques de Paris' [PGSM Master scholarship](https://sciencesmaths-paris.fr/nos-programmes/pgsm-master). I wrote my master thesis under the supervision of [Alexis Bouthier](https://perso.imj-prg.fr/alexis-bouthier/) on the geometric Satake equivalence.
