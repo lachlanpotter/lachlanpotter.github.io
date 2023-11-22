@@ -10,7 +10,7 @@ Email: lachlan dot potter dot tl at my dot utexas dot edu
 
 I'm currently a first year mathematics PhD at UT Austin.
 
-Before that I did my [M2 de Mathématiques Fondamentales](https://master-math-fonda.imj-prg.fr/index.php) at Sorbonne Université with the help of the Fondation Sciences Mathématiques de Paris' [PGSM Master scholarship](https://sciencesmaths-paris.fr/nos-programmes/pgsm-master). 
+Before that I did my [M2](https://master-math-fonda.imj-prg.fr/index.php) at Sorbonne Université with the help of the Fondation Sciences Mathématiques de Paris' [PGSM Master scholarship](https://sciencesmaths-paris.fr/nos-programmes/pgsm-master). 
 
 Before that I graduated from the [Australian National University](https://maths.anu.edu.au/) with the PhB - Science (Honours). 
 
