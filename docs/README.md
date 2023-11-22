@@ -2,13 +2,13 @@
 
 ## [About](README.md)  [Writing](Writing.md)  [Talks](Talks.md)  [CV](CV.md)  [Fun](Fun.md) 
 
-### About  
+## About  
 
 <img style="float: right;" src="./assets/images/headshot_photo.png" width="200"> Office: PMA 9.124
 
 Email: lachlan dot potter dot tl at my dot utexas dot edu
 
-I'm currently a first year mathematics PhD at UT Austin.
+I'm currently a first year mathematics PhD at [UT Austin](https://www.ma.utexas.edu/).
 
 Before that I did my [M2](https://master-math-fonda.imj-prg.fr/index.php) at Sorbonne Université with the help of the Fondation Sciences Mathématiques de Paris' [PGSM Master scholarship](https://sciencesmaths-paris.fr/nos-programmes/pgsm-master). 
 
