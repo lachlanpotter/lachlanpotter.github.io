@@ -6,6 +6,8 @@
 
 The following are a selection of (all unpublished) mathematical essays I have written for various courses and projects:
 
+[link](https://drive.google.com/file/d/1SwvjpAMPowT6M35Bdggw7ghsfRpECQjv/view)
+
 <a href="file:///C:\assets\writing\Representation_Growth_and_the_Congruence_Subgroup Problem.pdf">Link 1</a>
 
 [Polynomial Representation Growth and the Congruence Subgroup Problem (2021)](./assets/writing/Representation_Growth_and_the_Congruence_Subgroup Problem.pdf)
