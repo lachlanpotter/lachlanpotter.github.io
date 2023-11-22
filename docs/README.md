@@ -6,6 +6,8 @@
 
 I'm a pure mathematics student from Australia. When not doing mathematics I enjoy bouldering and solving cryptic crosswords. 
 
+<img style="float: right;" src="./assets/images/headshot_photo.png" width="200">
+
 I'm currently a first year graduate student at UT Austin.
 
 Before that I did my [M2 de Mathématiques Fondamentales](https://master-math-fonda.imj-prg.fr/index.php) at Sorbonne Université with the help of the Fondation Sciences Mathématiques de Paris' [PGSM Master scholarship](https://sciencesmaths-paris.fr/nos-programmes/pgsm-master). I wrote my master thesis under the supervision of [Alexis Bouthier](https://perso.imj-prg.fr/alexis-bouthier/) on the geometric Satake equivalence.
@@ -18,7 +20,6 @@ I also made a short video describing some of the ideas in my Honours thesis, whi
 
 I am interested in number theory, algebraic geometry and its connections with representation theory, though my interests are liable to change as I encounter new mathematics.
 
-<img style="float: right;" src="./assets/images/headshot_photo.png" width="200">
 
 (Last edited: October 2023)
 
