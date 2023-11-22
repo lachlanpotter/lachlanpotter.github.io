@@ -4,9 +4,7 @@
 
 ### About
 
-<img style="float: right;" src="./assets/images/headshot_photo.png" width="200">
-
-I'm a pure mathematics student from Australia. When not doing mathematics I enjoy bouldering and solving cryptic crosswords. 
+I'm a pure mathematics student from Australia. When not doing mathematics I enjoy bouldering and solving cryptic crosswords. <img style="float: right;" src="./assets/images/headshot_photo.png" width="200">
 
 I'm currently a first year graduate student at UT Austin.
 
