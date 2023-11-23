@@ -4,4 +4,4 @@
 
 ## CV
 
-You can access my CV [here]
+You can access my CV [here](https://drive.google.com/file/d/1xrkioO2VhN1hEjn6pURaGElOnDPDlIsV/view?usp=sharing)
