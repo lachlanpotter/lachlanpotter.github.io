@@ -8,7 +8,7 @@
 
 Email: lachlan dot potter dot tl at my dot utexas dot edu
 
-I'm currently a first year mathematics PhD at [UT Austin](https://www.ma.utexas.edu/).
+I'm a first year mathematics PhD at [UT Austin](https://www.ma.utexas.edu/). I'm currently reading with Assistant Professor [Chiara Damiolini](https://chiaradamiolini.wixsite.com/1289) and associate professor [Mirela Çiperani](https://web.ma.utexas.edu/users/mirela/)
 
 Before that I did my [M2](https://master-math-fonda.imj-prg.fr/index.php) at Sorbonne Université with the help of the Fondation Sciences Mathématiques de Paris' [PGSM Master scholarship](https://sciencesmaths-paris.fr/nos-programmes/pgsm-master). 
 
