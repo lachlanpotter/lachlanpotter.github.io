@@ -4,9 +4,7 @@
 
 ## About  
 
-<img style="float: right;" src="./assets/images/headshot_photo.png" width="200"> Office: PMA 9.124
-
-Email: lachlan dot potter dot tl at my dot utexas dot edu
+<img style="float: right;" src="./assets/images/headshot_photo.png" width="200"> 
 
 I'm a first year mathematics PhD at [UT Austin](https://www.ma.utexas.edu/). I'm currently reading with Assistant Professor [Chiara Damiolini](https://chiaradamiolini.wixsite.com/1289) and associate professor [Mirela Çiperiani](https://web.ma.utexas.edu/users/mirela/)
 
@@ -17,6 +15,10 @@ Before that I graduated from the [Australian National University](https://maths.
 I wrote my Honours thesis under the supervision of Associate Professor [Uri Onn](https://maths.anu.edu.au/people/uri-onn), in which I studied a [paper by Lubotzky and Martin](https://link.springer.com/content/pdf/10.1007/BF02916715.pdf) on the congruence subgroup property and polynomial representation growth.  To read my Honours thesis [click here](https://drive.google.com/file/d/11jC2kLG03orK0WyAvsnkJrMl4wNyyvnB/view?usp=sharing).
 
 I am interested broadly in number theory, algebraic geometry and its connections with representation theory.
+
+Office: PMA 9.124
+
+Email: lachlan dot potter dot tl at my dot utexas dot edu
 
 (Last edited: November 2023)
 
