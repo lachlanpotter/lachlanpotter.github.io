@@ -4,7 +4,7 @@
 
 ## Fun
 
-I also enjoy solving cryptic crosswords. In 2022 I wrote my first cryptic crossword. It's themed and has two difficulties, the only difference being whether the (undefined) themed clues are marked with an *. If you are interested you can try them below:
+I enjoy solving cryptic crosswords. In 2022 I wrote my first cryptic crossword. It's themed and has two difficulties, the only difference being whether the (undefined) themed clues are marked with an *. If you are interested you can try them below:
 
 ### [Measurement (easier version)](https://drive.google.com/file/d/1xtxrZbxH1CN4nHYeS1TIjHZkgUpuSTAR/view?usp=sharing)
 
