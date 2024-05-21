@@ -4,4 +4,4 @@
 
 ## CV
 
-You can access my CV [here](https://drive.google.com/file/d/1xrkioO2VhN1hEjn6pURaGElOnDPDlIsV/view?usp=sharing) (last updated: November 2023)
+You can access my CV [here](https://drive.google.com/file/d/1xrkioO2VhN1hEjn6pURaGElOnDPDlIsV/view?usp=sharing) (last updated: May 2024)
