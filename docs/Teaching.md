@@ -2,7 +2,7 @@
 
 ## [About](README.md)  [Writing](Writing.md)  [Talks](Talks.md)  [Teaching](Teaching.md)  [CV](CV.md)  [Fun](Fun.md) 
 
-This is my teaching page
+Here is a list of all current and past resources for courses I am teaching.
 
 ### [Homological Algebra Notes](https://drive.google.com/file/d/1SI4FqZks9cMCYiFebE21fe3J23OxLjhh/view?usp=sharing) and [Problem Sets (2024)](https://drive.google.com/file/d/1frcT8XSn3keGHKAS4nCcRQUNZpqBUMJC/view?usp=sharing) 
 
