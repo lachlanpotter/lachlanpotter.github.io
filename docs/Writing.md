@@ -9,9 +9,7 @@ The following are a selection of (all unpublished) mathematical writing I have d
 
 
 
-### [Homological Algebra Notes (2024)](https://drive.google.com/file/d/1SI4FqZks9cMCYiFebE21fe3J23OxLjhh/view?usp=sharing)
-
-### [Homological Algebra Problem Sets (2024)](https://drive.google.com/file/d/1frcT8XSn3keGHKAS4nCcRQUNZpqBUMJC/view?usp=sharing)
+### [Homological Algebra Notes](https://drive.google.com/file/d/1SI4FqZks9cMCYiFebE21fe3J23OxLjhh/view?usp=sharing) and [Problem Sets (2024)](https://drive.google.com/file/d/1frcT8XSn3keGHKAS4nCcRQUNZpqBUMJC/view?usp=sharing)
 
 The notes and problem sets for the summer mini course I ran at UT Austin on homological algebra.
 
