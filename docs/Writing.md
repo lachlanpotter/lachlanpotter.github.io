@@ -4,9 +4,20 @@
 
 ## Writing
 
-The following are a selection of (all unpublished) mathematical essays I have written for various courses and projects:
+The following are a selection of (all unpublished) mathematical writing I have done for various courses and projects:
 
-### [Geometric Satake Equivalence (2023)](https://drive.google.com/file/d/1EiVx8f-Xme7qHfz3vI51TxaLAUoiDtOc/view?usp=sharing)
+
+
+
+### [Homological Algebra Notes (2024)](https://drive.google.com/file/d/1SI4FqZks9cMCYiFebE21fe3J23OxLjhh/view?usp=sharing)
+
+### [Homological Algebra Problem Sets (2024)](https://drive.google.com/file/d/1frcT8XSn3keGHKAS4nCcRQUNZpqBUMJC/view?usp=sharing)
+
+The notes and problem sets for the summer mini course I ran at UT Austin on homological algebra.
+
+
+
+### [Geometric Satake Equivalence](https://drive.google.com/file/d/1EiVx8f-Xme7qHfz3vI51TxaLAUoiDtOc/view?usp=sharing)
 
 My master's thesis on the geometric Satake Equivalence written under the supervision of Alexis Bouthier.
 
