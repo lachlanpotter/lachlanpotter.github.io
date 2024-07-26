@@ -6,7 +6,7 @@
 
 <img style="float: right;" src="./assets/images/headshot_photo.png" width="200"> 
 
-I'm a first year mathematics PhD student at [UT Austin](https://www.ma.utexas.edu/) working with [Chiara Damiolini](https://chiaradamiolini.wixsite.com/1289).
+I'm a mathematics PhD student at [UT Austin](https://www.ma.utexas.edu/) working with [Chiara Damiolini](https://chiaradamiolini.wixsite.com/1289).
 
 Before that I did my [M2](https://master-math-fonda.imj-prg.fr/index.php) at Sorbonne Université with the help of the Fondation Sciences Mathématiques de Paris' [PGSM Master scholarship](https://sciencesmaths-paris.fr/nos-programmes/pgsm-master). 
 
@@ -20,6 +20,6 @@ Office: PMA 9.124
 
 Email: lachlan dot potter dot tl at my dot utexas dot edu
 
-(Last edited: May 2024)
+(Last edited: July 2024)
 
 
