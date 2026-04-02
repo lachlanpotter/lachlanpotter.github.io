@@ -6,6 +6,10 @@
 
 The following are a selection of recorded mathematical talks I have given:
 
+### [Equivariant Full Exceptional Collections in Algebraic Geometry (2026)](https://drive.google.com/file/d/1GSkhh2YlpbKyJGlvbkierAPyHXytdB5v/view?usp=sharing)
+
+A Zoom recording of my PhD candidacy talk, given at UT Austin. Candidacy is the final milestone before defending the PhD. I discuss full exceptional collections generally, and report on work of [Castravet and Tevelev](https://content.algebraicgeometry.nl/2020-6/2020-6-026.pdf).
+
 ### [The Representations and Subgroups of SL_d(Z) (2021)](https://drive.google.com/file/d/1DKZTXKVIyogIHoKCsKuoYHGfy0is8fc6/view?usp=sharing)
 
 A 12 minute video describing the ideas in my Honours thesis. It should be comprehensible to any undergraduate student who knows what a representation is. (apologies for the audio)
