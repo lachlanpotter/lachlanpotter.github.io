@@ -14,8 +14,6 @@ Before that I did my [M2](https://master-math-fonda.imj-prg.fr/index.php) at Sor
 
 Before that I graduated from the [Australian National University](https://maths.anu.edu.au/) with the PhB - Science (Honours). 
 
-I wrote my Honours thesis under the supervision of Associate Professor [Uri Onn](https://maths.anu.edu.au/people/uri-onn), in which I studied a [paper by Lubotzky and Martin](https://link.springer.com/content/pdf/10.1007/BF02916715.pdf) on the congruence subgroup property and polynomial representation growth.  To read my Honours thesis [click here](https://drive.google.com/file/d/11jC2kLG03orK0WyAvsnkJrMl4wNyyvnB/view?usp=sharing).
-
 I'm interested in: full exceptional collections for derived categories (mostly) in algebraic geometry, moduli spaces of curves (mostly genus 0), wonderful compactifications and (multi)-matroids. I also have an affinity for representation theory of all sorts.
 
 Office: PMA 9.124
